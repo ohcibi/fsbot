@@ -10,6 +10,7 @@
   "author": "Tobias Witt <tobias.witt@hhu.de> (http://www.dwgadf.de)",
   "license": "ISC",
   "dependencies": {
+    "getconfig": "^3.0.0",
     "irc": "^0.5.0"
   }
 }

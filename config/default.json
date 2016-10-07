@@ -1,0 +1,6 @@
+{
+  "host": "irc.quakenet.org",
+  "channels": ["#bot-test"],
+  "nick": "Knut",
+  "realName": "Knut van den Ijs"
+}
