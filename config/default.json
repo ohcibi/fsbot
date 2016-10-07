@@ -2,5 +2,6 @@
   "host": "irc.quakenet.org",
   "channels": ["#hhu-fscs"],
   "nick": "Knut",
-  "realName": "Knut van den Ijs"
+  "realName": "Knut van den Ijs",
+  "userName": "Knut"
 }

@@ -6,7 +6,8 @@ const responses = require("./responses")
 const client = new irc.Client(config.host, config.nick, {
   channels: config.channels,
   showErrors: true,
-  realName: config.realName
+  realName: config.realName,
+  userName: config.userName
 })
 
 client.addListener("message", function(from, to, message) {
