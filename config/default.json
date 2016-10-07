@@ -1,6 +1,6 @@
 {
   "host": "irc.quakenet.org",
-  "channels": ["#bot-test"],
+  "channels": ["#hhu-fscs"],
   "nick": "Knut",
   "realName": "Knut van den Ijs"
 }
